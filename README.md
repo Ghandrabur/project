@@ -1,4 +1,0 @@
-# project
-Python
-test
-wewe
